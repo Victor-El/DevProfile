@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DevProfile</string>
+    <string name="dev_stack">Stack:</string>
+    <string name="dev_name">Name:</string>
+    <string name="dev_alias">Alias</string>
+    <string name="dev_favourite_lang">Favourite Lang</string>
 </resources>
