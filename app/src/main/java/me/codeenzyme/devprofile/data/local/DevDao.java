@@ -1,4 +1,10 @@
 package me.codeenzyme.devprofile.data.local;
 
-public class DevDao {
+import androidx.room.Dao;
+
+@Dao
+public interface DevDao {
+
+
+
 }
